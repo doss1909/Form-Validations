@@ -1,1 +1,2 @@
-commit changes in git
+commit changes in git..
+this changes from is from git remote repo
